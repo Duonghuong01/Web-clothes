@@ -1,4 +1,7 @@
 hello world
 hi hi
+<<<<<<< HEAD
 ha ha
 con meo,cho
+=======
+>>>>>>> parent of aec35a3... commit test
